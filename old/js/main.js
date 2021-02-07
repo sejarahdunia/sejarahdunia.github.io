@@ -22,7 +22,7 @@
 		this.compareWrapper = document.querySelector('.compare'),
 		this.closeCompareCtrl = this.compareWrapper.querySelector('.action--close')
 		
-		this.itemsAllowed = 3;
+		this.itemsAllowed = 2;
 		this.totalItems = 0;
 		this.items = [];
 
