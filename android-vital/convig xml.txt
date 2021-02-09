@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="banner_ad_unit_id" translatable="false">ca-app-pub-6143379177372806/1369246296</string>
+    <string name="interstitial_ad_unit_id" translatable="false">ca-app-pub-6143379177372806/8892513094</string>
+    <string name="ad_app_id" translatable="false">ca-app-pub-6143379177372806~5939046694</string>
+    <string name="test_device_id" translatable="false">C7A986A89C91A7AD76EEC5B9ACBBE43B</string>
+
+    <string name="interval_time" translatable="false">60000</string>
+    <!--If you want to load local site remove value only-->
+    <string name="target_url" translatable="false"></string>
+    <!--If you don't want to load toolbar remove value only-->
+    <string name="toolbar" translatable="false"></string>
+    <!--If you don't want zoom option remove value only-->
+    <string name="zoom" translatable="false">true</string>
+    <string name="hide_status_bar" translatable="false"></string>
+
+    <!--PUBLIC KEY FROM GOOGLE PLAY-->
+    <string name="public_key" translatable="false">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAjHM5QNNUEU2DDarbksb4ommXcrfq1KKvpHvMo9KvGIMbiA+4b3LhTE37lGizPlhxalaalrGWQDPOG65xGvXyH32vslZTeaZyh/0oSWbnOSm0KTuVUmbz9bG7gDja7qrJ1bPBnWIdE2j7ad1HOY8pjhLlFYaOQM3BigwQVFi4eC8hoZ0oKkgllnJ6/sg9zJPMHl/f47YFt2Xqq5ah3/bWkqiL8/UDyQtSd7gKOiqcOd3gxCuPr8fHmQnLrSCglvgFzodUfCJNdspJ2usENTP7kpXA90CdIuKkLJGjFM8vyckWt6fX+D1WyOO5RJaTBhdFsUtsbcz7X4mLmi58vMvTaQIDAQAB</string>
+    <!--PUBLIC KEY FROM GOOGLE PLAY-->
+    <string name="item_sku" translatable="false">id.web.designer.history.removeads</string>
+</resources>

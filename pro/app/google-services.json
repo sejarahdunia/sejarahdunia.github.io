@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "312779149572",
+    "firebase_url": "https://world-history-timeline-compare.firebaseio.com",
+    "project_id": "world-history-timeline-compare",
+    "storage_bucket": "world-history-timeline-compare.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312779149572:android:0da850827f449ee89bc051",
+        "android_client_info": {
+          "package_name": "id.web.designer.history"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312779149572-kqkrrea5fhji0bh4t1von13f46l64qc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5EOnRzJ0w8IDl_4XQSjuu0cBl5b7sm1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312779149572-kqkrrea5fhji0bh4t1von13f46l64qc5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
