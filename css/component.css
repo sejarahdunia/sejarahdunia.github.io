@@ -417,7 +417,7 @@
 .compare__item {
 	height: 100%;
 	width: 50%;
-	background: #2A2B30;
+	background: #121212;
 	overflow: auto;
     overflow-y: hidden;
     overflow-x: scroll;
@@ -445,7 +445,7 @@
 }
 
 .compare__item:nth-of-type(2) {
-	background: #2A2B30;
+	background: #121212;
 }
 
 .compare__item .product__title {
