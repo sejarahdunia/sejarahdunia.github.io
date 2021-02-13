@@ -1,0 +1,9 @@
+### VSCode files ###
+jsconfig.json
+.vscode
+
+### Project Files ###
+node_modules
+dist
+*.log
+.env
