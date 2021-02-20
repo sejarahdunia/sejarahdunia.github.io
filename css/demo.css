@@ -210,6 +210,12 @@ a:hover {
 	color: #2A2B30;
 }
 
+.bp-icon-Overview:after {
+	content: 'Overview';
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	color: #f0f0f0;
+}
+
 .bp-icon-PreHistory:after {
 	content: 'Pre-History';
 	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
